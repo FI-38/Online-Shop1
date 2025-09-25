@@ -62,6 +62,8 @@
         echo "</ul>";
     } else {
         echo "<p>Ihr Warenkorb ist leer.</p>";
+        echo "<p>Vielen Dank, dass Sie unseren Shop nutzen!</p>";
+
     }
     ?>
  
